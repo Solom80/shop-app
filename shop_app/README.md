@@ -1,7 +1,6 @@
 # shop_app
 
-Application which social media are interactive technologies that allow create posts or sharing your
-images, ideas, interests with friends
+Application which E-Commerce for selling technology tools.
 
 ## Getting Started
 
